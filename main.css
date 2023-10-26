@@ -32,6 +32,7 @@ body {
 /******************************
               Specific style 
 ******************************/
+
 .mobile-holder {
   padding: 60px 40px;
   border-radius: 20px;
@@ -42,7 +43,7 @@ nav {
   width: 230px;
   margin-top: 20px;
 }
-s nav ul li {
+nav ul li {
   float: left;
   text-align: center;
 }
